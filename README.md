@@ -1,4 +1,6 @@
 # Ejemplo Parcial Práctico 1
+Estudiante: Clay Felipe Charry Pinzón
+Codigo: 202111152
 
 ## Instrucciones
 
